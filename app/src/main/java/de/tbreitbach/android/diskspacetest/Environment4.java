@@ -92,7 +92,7 @@ public class Environment4 {
      *     <li>USB-Geräte</li>
      * </ul>
      * Die Liste enthält keine null-Einträge, aber viele Android-Versionen liefern hier auch
-     * leere Slots und unbenutzte USB-Ports. Ob ein Device eingelegt/nutzbar ist, erfährt
+         * leere Slots und unbenutzte USB-Ports. Ob ein Device eingelegt/nutzbar ist, erfährt
      * man per {@link Environment4.Device#isAvailable()}. Die Liste ist
      * somit eher als Geräte-Übersicht nützlich.
      *

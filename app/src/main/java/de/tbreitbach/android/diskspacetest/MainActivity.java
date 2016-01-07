@@ -1,5 +1,6 @@
 package de.tbreitbach.android.diskspacetest;
 
+import android.content.Context;
 import android.os.Build;
 import android.os.Environment;
 import android.os.StatFs;
@@ -23,19 +24,29 @@ public class MainActivity extends AppCompatActivity {
         // Root
         StatFs statFs = new StatFs(Environment.getRootDirectory().getAbsolutePath());
         fetchSizes(statFs);
-        logSizes("ROOT");
+        logSizes("Environment - ROOT");
 
         // External Storage
         statFs = new StatFs(Environment.getExternalStorageDirectory().getAbsolutePath());
         fetchSizes(statFs);
-        logSizes("External");
+        logSizes("Environment - ExternalStorageDirectory");
 
         // External Storage via Environment 4
-        Environment4.Device[] devices = Environment4.getExternalStorage(this);
-        for (File file : devices){
-            statFs = new StatFs(file.getAbsolutePath());
+        Environment4.Device[] devices =  Environment4.getExternalStorage(this);
+        for (Environment4.Device device : devices){
+            statFs = new StatFs(device.getAbsolutePath());
             fetchSizes(statFs);
-            logSizes("Devices");
+            logDevice("Environment 4 - getExternalStorage", device);
+            logSizes("Environment 4 - getExternalStorage");
+        }
+
+        // Storage via Environment 4
+        Environment4.Device[] devicesAll = Environment4.getStorage(this);
+        for (Environment4.Device device : devicesAll){
+            statFs = new StatFs(device.getAbsolutePath());
+            fetchSizes(statFs);
+            logDevice("Environment 4 - getStorage" , device);
+            logSizes("Environment 4 - getStorage");
         }
     }
 
@@ -53,13 +64,27 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
+    public void logDevice(String txt, Environment4.Device device){
+        StringBuilder sb = new StringBuilder();
+        sb.append("AbsPath:\t").append(device.getAbsolutePath()).append("\n");
+        sb.append("Path:\t").append(device.getPath()).append("\n");
+        sb.append("is emulated:\t").append(device.isEmulated()).append("\n");
+        sb.append("is primary:\t").append(device.isPrimary()).append("\n");
+        sb.append("UUID:\t").append(device.getUuid()).append("\n");
+        sb.append("Label\t").append(device.getUserLabel()).append("\n");
+        sb.append("is removable:\t").append(device.isRemovable()).append("\n");
+
+        Log.d(txt, sb.toString());
+    }
+
     private void logSizes(String txt){
         StringBuilder sb = new StringBuilder();
-        sb.append("Total Size:\t\t").append(readableFileSize(this.totalSize)).append("\n");
-        sb.append("Avail. Size:\t\t").append(readableFileSize(this.availableSize)).append("\n");
+        sb.append("Total Size:\t").append(readableFileSize(this.totalSize)).append("\n");
+        sb.append("Avail Size:\t").append(readableFileSize(this.availableSize)).append("\n");
         sb.append("Free Size:\t\t").append(readableFileSize(this.freeSize)).append("\n");
 
         Log.d(txt, sb.toString());
+        Log.d("break", "\n\n");
     }
 
     public static String readableFileSize(long size) {
@@ -68,4 +93,32 @@ public class MainActivity extends AppCompatActivity {
         int digitGroups = (int) (Math.log10(size)/Math.log10(1024));
         return new DecimalFormat("#,##0.#").format(size/Math.pow(1024, digitGroups)) + " " + units[digitGroups];
     }
+
+    public long getAbsDiskSpace(Context context) {
+
+        long totalSpace = 0;
+
+        Environment4.Device[] devices = Environment4.getExternalStorage(context);
+
+        for (Environment4.Device device : devices) {
+            totalSpace += device.getTotalSpace();
+        }
+
+        return totalSpace;
+    }
+
+
+    public long getFreeDiskSpace(Context context) {
+
+        long totalSpace = 0;
+
+        Environment4.Device[] devices = Environment4.getExternalStorage(context);
+
+        for (Environment4.Device device : devices) {
+            totalSpace += device.getFreeSpace();
+        }
+
+        return totalSpace;
+    }
+
 }
