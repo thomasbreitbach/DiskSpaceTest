@@ -1,0 +1,40 @@
+01-07 17:34:10.000 17274-17274/? D/Environment - ROOT: Total Size:	1.2 GB
+01-07 17:34:10.000 17274-17274/? D/Environment - ROOT: Avail Size:	751.4 MB
+01-07 17:34:10.000 17274-17274/? D/Environment - ROOT: Free Size:		751.4 MB
+
+01-07 17:34:10.009 17274-17274/? D/Environment - ExternalStorageDirectory: Total Size:	510 MB
+01-07 17:34:10.009 17274-17274/? D/Environment - ExternalStorageDirectory: Avail Size:	510 MB
+01-07 17:34:10.009 17274-17274/? D/Environment - ExternalStorageDirectory: Free Size:		510 MB
+
+
+01-07 17:34:10.014 17274-17274/? D/Environment 4 - getExternalStorage: AbsPath:	/storage/10ED-2F07
+01-07 17:34:10.014 17274-17274/? D/Environment 4 - getExternalStorage: is emulated:	false
+01-07 17:34:10.014 17274-17274/? D/Environment 4 - getExternalStorage: is primary:	true
+01-07 17:34:10.014 17274-17274/? D/Environment 4 - getExternalStorage: UUID:	10ED-2F07
+01-07 17:34:10.014 17274-17274/? D/Environment 4 - getExternalStorage: Label	SDCARD
+01-07 17:34:10.014 17274-17274/? D/Environment 4 - getExternalStorage: is removable:	true
+01-07 17:34:10.018 17274-17274/? D/Environment 4 - getExternalStorage: Total Size:	510 MB
+01-07 17:34:10.018 17274-17274/? D/Environment 4 - getExternalStorage: Avail Size:	510 MB
+01-07 17:34:10.018 17274-17274/? D/Environment 4 - getExternalStorage: Free Size:		510 MB
+
+
+01-07 17:34:10.018 17274-17274/? D/Environment 4 - getStorage: AbsPath:	/data
+01-07 17:34:10.018 17274-17274/? D/Environment 4 - getStorage: is emulated:	false
+01-07 17:34:10.018 17274-17274/? D/Environment 4 - getStorage: is primary:	false
+01-07 17:34:10.018 17274-17274/? D/Environment 4 - getStorage: UUID:	null
+01-07 17:34:10.018 17274-17274/? D/Environment 4 - getStorage: Label	null
+01-07 17:34:10.018 17274-17274/? D/Environment 4 - getStorage: is removable:	false
+01-07 17:34:10.018 17274-17274/? D/Environment 4 - getStorage: Total Size:	541.3 MB
+01-07 17:34:10.018 17274-17274/? D/Environment 4 - getStorage: Avail Size:	416.5 MB
+01-07 17:34:10.018 17274-17274/? D/Environment 4 - getStorage: Free Size:		416.5 MB
+
+
+01-07 17:34:10.026 17274-17274/? D/Environment 4 - getStorage: AbsPath:	/storage/10ED-2F07
+01-07 17:34:10.026 17274-17274/? D/Environment 4 - getStorage: is emulated:	false
+01-07 17:34:10.026 17274-17274/? D/Environment 4 - getStorage: is primary:	true
+01-07 17:34:10.026 17274-17274/? D/Environment 4 - getStorage: UUID:	10ED-2F07
+01-07 17:34:10.026 17274-17274/? D/Environment 4 - getStorage: Label	SDCARD
+01-07 17:34:10.026 17274-17274/? D/Environment 4 - getStorage: is removable:	true
+01-07 17:34:10.027 17274-17274/? D/Environment 4 - getStorage: Total Size:	510 MB
+01-07 17:34:10.027 17274-17274/? D/Environment 4 - getStorage: Avail Size:	510 MB
+01-07 17:34:10.027 17274-17274/? D/Environment 4 - getStorage: Free Size:		510 MB

@@ -1,0 +1,90 @@
+01-07 17:36:20.610 1796-1796/de.tbreitbach.android.diskspacetest D/Environment - ROOT: Total Size:	827.8 MB
+01-07 17:36:20.610 1796-1796/de.tbreitbach.android.diskspacetest D/Environment - ROOT: Avail Size:	12.3 MB
+01-07 17:36:20.610 1796-1796/de.tbreitbach.android.diskspacetest D/Environment - ROOT: Free Size:		12.3 MB
+
+01-07 17:36:20.611 1796-1796/de.tbreitbach.android.diskspacetest D/Environment - ExternalStorageDirectory: Total Size:	12.9 GB
+01-07 17:36:20.611 1796-1796/de.tbreitbach.android.diskspacetest D/Environment - ExternalStorageDirectory: Avail Size:	2.6 GB
+01-07 17:36:20.611 1796-1796/de.tbreitbach.android.diskspacetest D/Environment - ExternalStorageDirectory: Free Size:		2.6 GB
+
+
+01-07 17:36:20.611 1796-1796/de.tbreitbach.android.diskspacetest D/Environment 4 - getExternalStorage: AbsPath:	/storage/emulated/0
+01-07 17:36:20.611 1796-1796/de.tbreitbach.android.diskspacetest D/Environment 4 - getExternalStorage: is emulated:	true
+01-07 17:36:20.611 1796-1796/de.tbreitbach.android.diskspacetest D/Environment 4 - getExternalStorage: is primary:	true
+01-07 17:36:20.611 1796-1796/de.tbreitbach.android.diskspacetest D/Environment 4 - getExternalStorage: UUID:	null
+01-07 17:36:20.611 1796-1796/de.tbreitbach.android.diskspacetest D/Environment 4 - getExternalStorage: Label	null
+01-07 17:36:20.611 1796-1796/de.tbreitbach.android.diskspacetest D/Environment 4 - getExternalStorage: is removable:	false
+01-07 17:36:20.612 1796-1796/de.tbreitbach.android.diskspacetest D/Environment 4 - getExternalStorage: Total Size:	12.9 GB
+01-07 17:36:20.612 1796-1796/de.tbreitbach.android.diskspacetest D/Environment 4 - getExternalStorage: Avail Size:	2.6 GB
+01-07 17:36:20.612 1796-1796/de.tbreitbach.android.diskspacetest D/Environment 4 - getExternalStorage: Free Size:		2.6 GB
+
+
+01-07 17:36:20.612 1796-1796/de.tbreitbach.android.diskspacetest D/Environment 4 - getStorage: AbsPath:	/data
+01-07 17:36:20.612 1796-1796/de.tbreitbach.android.diskspacetest D/Environment 4 - getStorage: is emulated:	false
+01-07 17:36:20.612 1796-1796/de.tbreitbach.android.diskspacetest D/Environment 4 - getStorage: is primary:	false
+01-07 17:36:20.612 1796-1796/de.tbreitbach.android.diskspacetest D/Environment 4 - getStorage: UUID:	null
+01-07 17:36:20.612 1796-1796/de.tbreitbach.android.diskspacetest D/Environment 4 - getStorage: Label	null
+01-07 17:36:20.612 1796-1796/de.tbreitbach.android.diskspacetest D/Environment 4 - getStorage: is removable:	false
+01-07 17:36:20.613 1796-1796/de.tbreitbach.android.diskspacetest D/Environment 4 - getStorage: Total Size:	12.9 GB
+01-07 17:36:20.613 1796-1796/de.tbreitbach.android.diskspacetest D/Environment 4 - getStorage: Avail Size:	2.6 GB
+01-07 17:36:20.613 1796-1796/de.tbreitbach.android.diskspacetest D/Environment 4 - getStorage: Free Size:		2.6 GB
+
+
+01-07 17:36:20.613 1796-1796/de.tbreitbach.android.diskspacetest D/Environment 4 - getStorage: AbsPath:	/storage/emulated/0
+01-07 17:36:20.613 1796-1796/de.tbreitbach.android.diskspacetest D/Environment 4 - getStorage: is emulated:	true
+01-07 17:36:20.613 1796-1796/de.tbreitbach.android.diskspacetest D/Environment 4 - getStorage: is primary:	true
+01-07 17:36:20.613 1796-1796/de.tbreitbach.android.diskspacetest D/Environment 4 - getStorage: UUID:	null
+01-07 17:36:20.613 1796-1796/de.tbreitbach.android.diskspacetest D/Environment 4 - getStorage: Label	null
+01-07 17:36:20.613 1796-1796/de.tbreitbach.android.diskspacetest D/Environment 4 - getStorage: is removable:	false
+01-07 17:36:20.614 1796-1796/de.tbreitbach.android.diskspacetest D/Environment 4 - getStorage: Total Size:	12.9 GB
+01-07 17:36:20.614 1796-1796/de.tbreitbach.android.diskspacetest D/Environment 4 - getStorage: Avail Size:	2.6 GB
+01-07 17:36:20.614 1796-1796/de.tbreitbach.android.diskspacetest D/Environment 4 - getStorage: Free Size:		2.6 GB
+
+
+
+---------
+
+
+
+01-07 18:55:48.111 1967-1967/? D/Environment - ROOT: Total Size:	827.8 MB
+01-07 18:55:48.111 1967-1967/? D/Environment - ROOT: Avail Size:	12.3 MB
+01-07 18:55:48.111 1967-1967/? D/Environment - ROOT: Free Size:		12.3 MB
+
+01-07 18:55:48.113 1967-1967/? D/Environment - ExternalStorageDirectory: Total Size:	12.9 GB
+01-07 18:55:48.113 1967-1967/? D/Environment - ExternalStorageDirectory: Avail Size:	2.6 GB
+01-07 18:55:48.113 1967-1967/? D/Environment - ExternalStorageDirectory: Free Size:		2.6 GB
+
+
+01-07 18:55:48.113 1967-1967/? D/Environment 4 - getExternalStorage: AbsPath:	/storage/emulated/11
+01-07 18:55:48.113 1967-1967/? D/Environment 4 - getExternalStorage: Path:	/storage/emulated/11
+01-07 18:55:48.113 1967-1967/? D/Environment 4 - getExternalStorage: is emulated:	true
+01-07 18:55:48.113 1967-1967/? D/Environment 4 - getExternalStorage: is primary:	true
+01-07 18:55:48.113 1967-1967/? D/Environment 4 - getExternalStorage: UUID:	null
+01-07 18:55:48.113 1967-1967/? D/Environment 4 - getExternalStorage: Label	null
+01-07 18:55:48.113 1967-1967/? D/Environment 4 - getExternalStorage: is removable:	false
+01-07 18:55:48.116 1967-1967/? D/Environment 4 - getExternalStorage: Total Size:	12.9 GB
+01-07 18:55:48.116 1967-1967/? D/Environment 4 - getExternalStorage: Avail Size:	2.6 GB
+01-07 18:55:48.116 1967-1967/? D/Environment 4 - getExternalStorage: Free Size:		2.6 GB
+
+
+01-07 18:55:48.117 1967-1967/? D/Environment 4 - getStorage: AbsPath:	/data
+01-07 18:55:48.117 1967-1967/? D/Environment 4 - getStorage: Path:	/data
+01-07 18:55:48.117 1967-1967/? D/Environment 4 - getStorage: is emulated:	false
+01-07 18:55:48.117 1967-1967/? D/Environment 4 - getStorage: is primary:	false
+01-07 18:55:48.117 1967-1967/? D/Environment 4 - getStorage: UUID:	null
+01-07 18:55:48.117 1967-1967/? D/Environment 4 - getStorage: Label	null
+01-07 18:55:48.117 1967-1967/? D/Environment 4 - getStorage: is removable:	false
+01-07 18:55:48.118 1967-1967/? D/Environment 4 - getStorage: Total Size:	12.9 GB
+01-07 18:55:48.118 1967-1967/? D/Environment 4 - getStorage: Avail Size:	2.6 GB
+01-07 18:55:48.118 1967-1967/? D/Environment 4 - getStorage: Free Size:		2.6 GB
+
+
+01-07 18:55:48.119 1967-1967/? D/Environment 4 - getStorage: AbsPath:	/storage/emulated/11
+01-07 18:55:48.119 1967-1967/? D/Environment 4 - getStorage: Path:	/storage/emulated/11
+01-07 18:55:48.119 1967-1967/? D/Environment 4 - getStorage: is emulated:	true
+01-07 18:55:48.119 1967-1967/? D/Environment 4 - getStorage: is primary:	true
+01-07 18:55:48.119 1967-1967/? D/Environment 4 - getStorage: UUID:	null
+01-07 18:55:48.119 1967-1967/? D/Environment 4 - getStorage: Label	null
+01-07 18:55:48.119 1967-1967/? D/Environment 4 - getStorage: is removable:	false
+01-07 18:55:48.120 1967-1967/? D/Environment 4 - getStorage: Total Size:	12.9 GB
+01-07 18:55:48.120 1967-1967/? D/Environment 4 - getStorage: Avail Size:	2.6 GB
+01-07 18:55:48.120 1967-1967/? D/Environment 4 - getStorage: Free Size:		2.6 GB

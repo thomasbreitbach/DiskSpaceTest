@@ -1,0 +1,40 @@
+01-20 00:39:07.011 30981-30981/de.tbreitbach.android.diskspacetest D/Environment - ROOT: Total Size:	503,9 MB
+01-20 00:39:07.011 30981-30981/de.tbreitbach.android.diskspacetest D/Environment - ROOT: Avail Size:	19,9 MB
+01-20 00:39:07.011 30981-30981/de.tbreitbach.android.diskspacetest D/Environment - ROOT: Free Size:		19,9 MB
+
+01-20 00:39:07.019 30981-30981/de.tbreitbach.android.diskspacetest D/Environment - ExternalStorageDirectory: Total Size:	11 GB
+01-20 00:39:07.019 30981-30981/de.tbreitbach.android.diskspacetest D/Environment - ExternalStorageDirectory: Avail Size:	10,9 GB
+01-20 00:39:07.019 30981-30981/de.tbreitbach.android.diskspacetest D/Environment - ExternalStorageDirectory: Free Size:		10,9 GB
+
+
+01-20 00:39:07.019 30981-30981/de.tbreitbach.android.diskspacetest D/Environment 4 - getExternalStorage: AbsPath:	/storage/sdcard0
+01-20 00:39:07.019 30981-30981/de.tbreitbach.android.diskspacetest D/Environment 4 - getExternalStorage: is emulated:	false
+01-20 00:39:07.019 30981-30981/de.tbreitbach.android.diskspacetest D/Environment 4 - getExternalStorage: is primary:	true
+01-20 00:39:07.019 30981-30981/de.tbreitbach.android.diskspacetest D/Environment 4 - getExternalStorage: UUID:	null
+01-20 00:39:07.019 30981-30981/de.tbreitbach.android.diskspacetest D/Environment 4 - getExternalStorage: Label	null
+01-20 00:39:07.019 30981-30981/de.tbreitbach.android.diskspacetest D/Environment 4 - getExternalStorage: is removable:	false
+01-20 00:39:07.019 30981-30981/de.tbreitbach.android.diskspacetest D/Environment 4 - getExternalStorage: Total Size:	11 GB
+01-20 00:39:07.019 30981-30981/de.tbreitbach.android.diskspacetest D/Environment 4 - getExternalStorage: Avail Size:	10,9 GB
+01-20 00:39:07.019 30981-30981/de.tbreitbach.android.diskspacetest D/Environment 4 - getExternalStorage: Free Size:		10,9 GB
+
+
+01-20 00:39:07.019 30981-30981/de.tbreitbach.android.diskspacetest D/Environment 4 - getStorage: AbsPath:	/data
+01-20 00:39:07.019 30981-30981/de.tbreitbach.android.diskspacetest D/Environment 4 - getStorage: is emulated:	false
+01-20 00:39:07.019 30981-30981/de.tbreitbach.android.diskspacetest D/Environment 4 - getStorage: is primary:	false
+01-20 00:39:07.019 30981-30981/de.tbreitbach.android.diskspacetest D/Environment 4 - getStorage: UUID:	null
+01-20 00:39:07.019 30981-30981/de.tbreitbach.android.diskspacetest D/Environment 4 - getStorage: Label	null
+01-20 00:39:07.019 30981-30981/de.tbreitbach.android.diskspacetest D/Environment 4 - getStorage: is removable:	false
+01-20 00:39:07.019 30981-30981/de.tbreitbach.android.diskspacetest D/Environment 4 - getStorage: Total Size:	2 GB
+01-20 00:39:07.019 30981-30981/de.tbreitbach.android.diskspacetest D/Environment 4 - getStorage: Avail Size:	1,2 GB
+01-20 00:39:07.019 30981-30981/de.tbreitbach.android.diskspacetest D/Environment 4 - getStorage: Free Size:		1,2 GB
+
+
+01-20 00:39:07.019 30981-30981/de.tbreitbach.android.diskspacetest D/Environment 4 - getStorage: AbsPath:	/storage/sdcard0
+01-20 00:39:07.019 30981-30981/de.tbreitbach.android.diskspacetest D/Environment 4 - getStorage: is emulated:	false
+01-20 00:39:07.019 30981-30981/de.tbreitbach.android.diskspacetest D/Environment 4 - getStorage: is primary:	true
+01-20 00:39:07.019 30981-30981/de.tbreitbach.android.diskspacetest D/Environment 4 - getStorage: UUID:	null
+01-20 00:39:07.019 30981-30981/de.tbreitbach.android.diskspacetest D/Environment 4 - getStorage: Label	null
+01-20 00:39:07.019 30981-30981/de.tbreitbach.android.diskspacetest D/Environment 4 - getStorage: is removable:	false
+01-20 00:39:07.019 30981-30981/de.tbreitbach.android.diskspacetest D/Environment 4 - getStorage: Total Size:	11 GB
+01-20 00:39:07.019 30981-30981/de.tbreitbach.android.diskspacetest D/Environment 4 - getStorage: Avail Size:	10,9 GB
+01-20 00:39:07.019 30981-30981/de.tbreitbach.android.diskspacetest D/Environment 4 - getStorage: Free Size:		10,9 GB

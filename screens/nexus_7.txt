@@ -1,0 +1,43 @@
+01-07 18:47:04.920 1864-1864/? D/Environment - ROOT: Total Size:	639,8 MB
+01-07 18:47:04.920 1864-1864/? D/Environment - ROOT: Avail Size:	26,7 MB
+01-07 18:47:04.920 1864-1864/? D/Environment - ROOT: Free Size:		26,7 MB
+
+01-07 18:47:04.920 1864-1864/? D/Environment - ExternalStorageDirectory: Total Size:	13,4 GB
+01-07 18:47:04.920 1864-1864/? D/Environment - ExternalStorageDirectory: Avail Size:	13,1 GB
+01-07 18:47:04.920 1864-1864/? D/Environment - ExternalStorageDirectory: Free Size:		13,1 GB
+
+
+01-07 18:47:04.920 1864-1864/? D/Environment 4 - getExternalStorage: AbsPath:	/storage/emulated/0
+01-07 18:47:04.920 1864-1864/? D/Environment 4 - getExternalStorage: Path:	/storage/emulated/0
+01-07 18:47:04.920 1864-1864/? D/Environment 4 - getExternalStorage: is emulated:	true
+01-07 18:47:04.920 1864-1864/? D/Environment 4 - getExternalStorage: is primary:	true
+01-07 18:47:04.920 1864-1864/? D/Environment 4 - getExternalStorage: UUID:	null
+01-07 18:47:04.920 1864-1864/? D/Environment 4 - getExternalStorage: Label	null
+01-07 18:47:04.920 1864-1864/? D/Environment 4 - getExternalStorage: is removable:	false
+01-07 18:47:04.920 1864-1864/? D/Environment 4 - getExternalStorage: Total Size:	13,4 GB
+01-07 18:47:04.920 1864-1864/? D/Environment 4 - getExternalStorage: Avail Size:	13,1 GB
+01-07 18:47:04.920 1864-1864/? D/Environment 4 - getExternalStorage: Free Size:		13,1 GB
+
+
+01-07 18:47:04.930 1864-1864/? D/Environment 4 - getStorage: AbsPath:	/data
+01-07 18:47:04.930 1864-1864/? D/Environment 4 - getStorage: Path:	/data
+01-07 18:47:04.930 1864-1864/? D/Environment 4 - getStorage: is emulated:	false
+01-07 18:47:04.930 1864-1864/? D/Environment 4 - getStorage: is primary:	false
+01-07 18:47:04.930 1864-1864/? D/Environment 4 - getStorage: UUID:	null
+01-07 18:47:04.930 1864-1864/? D/Environment 4 - getStorage: Label	null
+01-07 18:47:04.930 1864-1864/? D/Environment 4 - getStorage: is removable:	false
+01-07 18:47:04.930 1864-1864/? D/Environment 4 - getStorage: Total Size:	13,4 GB
+01-07 18:47:04.930 1864-1864/? D/Environment 4 - getStorage: Avail Size:	13,1 GB
+01-07 18:47:04.930 1864-1864/? D/Environment 4 - getStorage: Free Size:		13,1 GB
+
+
+01-07 18:47:04.930 1864-1864/? D/Environment 4 - getStorage: AbsPath:	/storage/emulated/0
+01-07 18:47:04.930 1864-1864/? D/Environment 4 - getStorage: Path:	/storage/emulated/0
+01-07 18:47:04.930 1864-1864/? D/Environment 4 - getStorage: is emulated:	true
+01-07 18:47:04.930 1864-1864/? D/Environment 4 - getStorage: is primary:	true
+01-07 18:47:04.930 1864-1864/? D/Environment 4 - getStorage: UUID:	null
+01-07 18:47:04.930 1864-1864/? D/Environment 4 - getStorage: Label	null
+01-07 18:47:04.930 1864-1864/? D/Environment 4 - getStorage: is removable:	false
+01-07 18:47:04.930 1864-1864/? D/Environment 4 - getStorage: Total Size:	13,4 GB
+01-07 18:47:04.930 1864-1864/? D/Environment 4 - getStorage: Avail Size:	13,1 GB
+01-07 18:47:04.930 1864-1864/? D/Environment 4 - getStorage: Free Size:		13,1 GB
